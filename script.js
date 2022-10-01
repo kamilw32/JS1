@@ -10,3 +10,7 @@ let isActive = true
 let propoetis = Symbol('a')
 let n
 let m = null
+const constant = 45.67
+console.log(typeof n)
+console.log(typeof m)
+console.log(typeof propoetis)
