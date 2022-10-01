@@ -14,3 +14,20 @@ const constant = 45.67
 console.log(typeof n)
 console.log(typeof m)
 console.log(typeof propoetis)
+let decimalVar = 10
+let binaryVar = b1001
+let octalVar = 010
+let hexVar = xFF 
+let realVar = 10.67e12
+let bigIntVar = 1000000000000000000000000000
+console.log(bigIntVar / 1000)
+console.log(1/5)
+console.log(10/3)
+console.log(Math.trunc(10/3))
+console.log(bigIntVar / 1000n)
+console.log(~~(10/3))
+console.log(1 == "1")
+console.log( 1 === "1")
+console.log(0 == "")
+console.log((0/0)== (0/0))
+console.log(null == n)
